@@ -14,3 +14,7 @@ License URI:
 Text Domain: launcher
 Tags: coming-soon, landing-page
 */
+
+body {
+    background: rgb(192, 195, 255);
+}

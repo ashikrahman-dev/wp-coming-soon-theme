@@ -88,8 +88,8 @@
 	var countDown = function() {
 
 		simplyCountdown('.simply-countdown-one', {
-			year: "2018",
-			month: "05",
+			year: "2024",
+			month: "01",
 			day: "30"
 		});
 
